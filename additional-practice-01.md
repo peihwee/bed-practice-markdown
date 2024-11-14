@@ -104,7 +104,5 @@ INSERT INTO satays (name, meatType, spicyLevel, price) VALUES
     ```
   - **204 No Content**:
     ```json
-    {
-      "message": "No satay items found"
-    }
+    
     ```
