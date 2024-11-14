@@ -36,7 +36,7 @@ INSERT INTO satays (name, meatType, spicyLevel, price) VALUES
     ```json
     {
       "message": "Satay created successfully",
-      "id": "s003",
+      "id": 3,
       "satay": {
         "name": "Lamb Satay",
         "meatType": "Lamb",
